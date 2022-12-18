@@ -1,0 +1,1 @@
+Run file train_chatbot.py chờ một khoảng time để chương trình học , sau đó chạy file ChatBotApp.py
